@@ -37,7 +37,7 @@ function Projects() {
               title="Chatify"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build HTML, Css and Javascript. Have features which allows user for realtime messaging, with room joining and left notification."
               ghLink="https://github.com/shivansh090/Chatify"
-              demoLink=""
+              demoLink="https://chat-itt.onrender.com/"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Projects() {
               description="
               I developed a project-sharing website with an attractive advertisement interface, emphasizing accessibility-focused UX enhancements for inclusivity. By applying design principles, I ensured smooth navigation and interaction, catering to a diverse user base."
               ghLink="https://github.com/shivansh090/ProjecTies"
-              demoLink="https://shivanshvikramsingh.github.io/ProjecTies/"              
+              demoLink="https://shivansh090.github.io/ProjecTies/"              
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               description="
               Developed a real-time chat app, providing instant messaging capabilities. Designed a modern React and CSS front-end for an intuitive user experience. Orchestrated Socket.io implementation, enabling seamless real-time communication across various chat rooms."
               ghLink="https://github.com/shivansh090/ToDoList-react"
-              demoLink="https://shivanshvikramsingh.github.io/ToDoList-react/"
+              demoLink="https://shivansh090.github.io/ToDoList-react/"
             />
           </Col>
 
@@ -73,7 +73,7 @@ function Projects() {
               description="
               Integrated Newsapi to collect and showcase 100+ daily news articles from diverse sources. Crafted a responsive interface, enabling users to filter news by categories and search for specific topics. Implemented navigation categories and search functionality for users to query articles based on their interests."
               ghLink="https://github.com/shivansh090/abcNews"
-              demoLink="https://shivanshvikramsingh.github.io/abcNews/" 
+              demoLink="https://shivansh090.github.io/abcNews/" 
             />
           </Col>
 
@@ -84,7 +84,7 @@ function Projects() {
               title="GuessNext"
               description="Crafted a React website featuring a stunning UI for an engaging dice roll game. Developed an intuitive front-end design using React and CSS, enhancing the overall user experience. Implemented seamless functionality, allowing users to enjoy the game with a visually appealing interface."
               ghLink="https://github.com/shivansh090/abcNews"
-              demoLink="https://shivanshvikramsingh.github.io/GuessNext/"     
+              demoLink="https://shivansh090.github.io/GuessNext/"     
             />
           </Col>
         </Row>
