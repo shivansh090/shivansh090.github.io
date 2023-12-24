@@ -144,7 +144,7 @@ button:focus {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #181a27 !important;
+    backdrop-filter: blur(15px) !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -152,6 +152,7 @@ button:focus {
 }
 .navbar-brand {
   color: rgb(250, 250, 250) !important;
+  font-size: 0.7rem !important;
 }
 
 .logo {
