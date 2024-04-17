@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.83dda00c.css",
-    "main.js": "/Portfolio/static/js/main.1059a486.js",
-    "static/js/787.5c0b2d12.chunk.js": "/Portfolio/static/js/787.5c0b2d12.chunk.js",
-    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/logo.gif": "/Portfolio/static/media/logo.ddc917eafeae769dc40e.gif",
-    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Shivansh_IIITB.pdf": "/Portfolio/static/media/Shivansh_IIITB.69eac9eac50b2cd88e57.pdf",
-    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "static/media/code.svg": "/Portfolio/static/media/code.4540a9eeac41e8f91f167d546e428f9e.svg",
-    "static/media/js.svg": "/Portfolio/static/media/js.d71e6262f0aa81777766b8c2b057b23d.svg",
-    "static/media/write.svg": "/Portfolio/static/media/write.13c7e939a8e749b6ee9790d3dcee9c8c.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.83dda00c.css.map": "/Portfolio/static/css/main.83dda00c.css.map",
-    "main.1059a486.js.map": "/Portfolio/static/js/main.1059a486.js.map",
-    "787.5c0b2d12.chunk.js.map": "/Portfolio/static/js/787.5c0b2d12.chunk.js.map"
+    "main.css": "/shivansh090.github.io/static/css/main.6bc07979.css",
+    "main.js": "/shivansh090.github.io/static/js/main.63402c9f.js",
+    "static/js/787.5c0b2d12.chunk.js": "/shivansh090.github.io/static/js/787.5c0b2d12.chunk.js",
+    "static/media/codeEditor.png": "/shivansh090.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/shivansh090.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/logo.gif": "/shivansh090.github.io/static/media/logo.ddc917eafeae769dc40e.gif",
+    "static/media/home-main.svg": "/shivansh090.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/shivansh090.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/shivansh090.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Shivansh_IIITB.pdf": "/shivansh090.github.io/static/media/Shivansh_IIITB.69eac9eac50b2cd88e57.pdf",
+    "static/media/home-bg.jpg": "/shivansh090.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/shivansh090.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/shivansh090.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/code.svg": "/shivansh090.github.io/static/media/code.4540a9eeac41e8f91f167d546e428f9e.svg",
+    "static/media/js.svg": "/shivansh090.github.io/static/media/js.d71e6262f0aa81777766b8c2b057b23d.svg",
+    "static/media/write.svg": "/shivansh090.github.io/static/media/write.13c7e939a8e749b6ee9790d3dcee9c8c.svg",
+    "index.html": "/shivansh090.github.io/index.html",
+    "main.6bc07979.css.map": "/shivansh090.github.io/static/css/main.6bc07979.css.map",
+    "main.63402c9f.js.map": "/shivansh090.github.io/static/js/main.63402c9f.js.map",
+    "787.5c0b2d12.chunk.js.map": "/shivansh090.github.io/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83dda00c.css",
-    "static/js/main.1059a486.js"
+    "static/css/main.6bc07979.css",
+    "static/js/main.63402c9f.js"
   ]
 }
